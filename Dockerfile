@@ -16,7 +16,6 @@ RUN apt-get install -y \
     openjdk-11-jre \
     python3 \
     rustc \
-    perl6 \
     golang \
     php-cli
 
