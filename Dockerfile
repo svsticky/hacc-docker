@@ -24,4 +24,4 @@ RUN apt-get clean
 WORKDIR /mnt
 
 # currently installed:
-# c, c++, c#, ruby, java, python3, rust, haskell, javascript (nodejs), perl6, go, php
+# c, c++, c#, ruby, java, python3, rust, haskell, javascript (nodejs), perl 5, go, php
